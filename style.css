@@ -121,6 +121,7 @@ main{
     padding: 20px 40px;
     border: none;
     margin: 0px 20px 0px 0px;
+    cursor: pointer;
 }
 
 .btn2{
@@ -131,6 +132,7 @@ main{
     background: #4EC5F7;
     padding: 20px 40px;
     border: none;
+    cursor: pointer;
 }
 
 /* info-section */
