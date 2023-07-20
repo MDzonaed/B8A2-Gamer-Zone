@@ -212,8 +212,12 @@ main{
 
 .text2{
     margin: 0 10px;
-    color: white;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20%;
 }
+
   
 #play-icon:hover .overlay {
     opacity: 1;
